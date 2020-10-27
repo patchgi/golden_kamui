@@ -11,7 +11,7 @@ colorama==0.3.9
 configparser==3.5.0
 construct==2.8.14
 crayons==0.1.2
-cryptography==1.8.2
+cryptography==3.2
 cssutils==1.0.2
 EbookLib==0.16
 EditorConfig==0.12.1
